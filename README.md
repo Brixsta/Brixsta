@@ -5,8 +5,8 @@ Hello there! My name is Charles Brixey, and I'm a passionate computer science st
 
 ## Education
 🎓 Currently pursuing a Computer Science degree at Western Governors University.<br />
-✅ Completed the Galvanize-Level Up code camp.<br />
-📚 Completed a BS in Accounting from Portland State University
+✅ Completed the Galvanize-Level Up coding immersive.<br />
+📚 BS in Accounting from Portland State University
 
 ## Personal Projects
 💡 Enjoy creating applications and games in my free time.<br />
