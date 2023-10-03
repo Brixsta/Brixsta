@@ -4,7 +4,7 @@ Hello there! My name is Charles Brixey, and I'm a passionate computer science st
 [View Protect the Castle](https://brixsta.github.io/Protect-the-Castle/)  
 ![protect the castle](https://github.com/Brixsta/Brixsta/assets/25852805/c3908c37-c03c-47f2-b3c4-0775c7ddc970)  
 
-## Leetcode Stats
+## Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Brixsta)
 
 ## Education
